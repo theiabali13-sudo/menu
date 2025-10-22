@@ -1,0 +1,112 @@
+[
+  {
+    "id": 2,
+    "title": "قهوة تركي",
+    "price": 8,
+    "category": "drinks",
+    "description": "قهوة تركية أصلية محمصة بعناية، تقدم ساخنة مع رغوة غنية.",
+    "image": "/public/img/عصير1.png",
+    "isActive": true
+  },
+  {
+    "id": 1,
+    "title": "سلطة خضراء",
+    "price": 12,
+    "category": "appetizers",
+    "description": "خضار طازجة مع صوص خفيف ولذيذ.",
+  "image": "/public/img/وجبة1.jpg",
+    "isActive": true,
+    "className":"catss"
+  },
+  {
+    "id": 3,
+    "title": "كنافة نابلسية",
+    "price": 15,
+    "category": "desserts",
+    "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
+  "image": "/public/img/وجبة2.jfif",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "title": "عصير برتقال طبيعي",
+    "price": 9,
+    "category": "drinks",
+    "description": "عصير طازج طبيعي بدون سكر مضاف.",
+  "image": "/public/img/عصير2.jpg",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "title": "شوربة العدس",
+    "price": 10,
+    "category": "appetizers",
+    "description": "شوربة عدس دافئة بالتوابل الشرقية.",
+  "image": "/public/img/وجبة3.jpg",
+    "isActive": true
+
+  },
+  {
+    "id": 6,
+    "title": "تشيز كيك التوت",
+    "price": 18,
+    "category": "meals",
+    "description": "كيك مخملي بالتوت مع طبقة جبن كريمية.",
+  "image": "/public/img/وجبة4.jpg",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "title": "قهوة تركي",
+    "price": 8,
+    "category": "drinks",
+    "description": "قهوة تركية أصلية محمصة بعناية، تقدم ساخنة مع رغوة غنية.",
+  "image": "/public/img/عصير1.png",
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "title": "سلطة خضراء",
+    "price": 12,
+    "category": "appetizers",
+    "description": "خضار طازجة مع صوص خفيف ولذيذ.",
+  "image": "/public/img/وجبة1.jpg",
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "title": "كنافة نابلسية",
+    "price": 15,
+    "category": "snacks",
+    "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
+  "image": "/public/img/وجبة2.jfif",
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "title": "كنافة نابلسية",
+    "price": 15,
+    "category": "snacks",
+    "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
+  "image": "/public/img/وجبة2.jfif",
+    "isActive": true
+  },
+  {
+    "id": 11,
+    "title": "كنافة نابلسية",
+    "price": 15,
+    "category": "snacks",
+    "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
+    "image": "public/img/وجبة2.jfif",
+    "isActive": true
+  },
+  {
+    "id": 12,
+    "title": "كنافة نابلسية",
+    "price": 15,
+    "category": "snacks",
+    "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
+    "image": "public/img/وجبة2.jfif",
+    "isActive": true
+  }
+]
