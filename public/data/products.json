@@ -5,7 +5,7 @@
     "price": 8,
     "category": "drinks",
     "description": "قهوة تركية أصلية محمصة بعناية، تقدم ساخنة مع رغوة غنية.",
-    "image": "/public/img/عصير1.png",
+    "image": "./public/img/عصير1.png",
     "isActive": true
   },
   {
@@ -14,7 +14,7 @@
     "price": 12,
     "category": "appetizers",
     "description": "خضار طازجة مع صوص خفيف ولذيذ.",
-  "image": "/public/img/وجبة1.jpg",
+  "image": "./public/img/وجبة1.jpg",
     "isActive": true,
     "className":"catss"
   },
@@ -24,7 +24,7 @@
     "price": 15,
     "category": "desserts",
     "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
-  "image": "/public/img/وجبة2.jfif",
+  "image": "./public/img/وجبة2.jfif",
     "isActive": true
   },
   {
@@ -33,7 +33,7 @@
     "price": 9,
     "category": "drinks",
     "description": "عصير طازج طبيعي بدون سكر مضاف.",
-  "image": "/public/img/عصير2.jpg",
+  "image": "./public/img/عصير2.jpg",
     "isActive": true
   },
   {
@@ -42,7 +42,7 @@
     "price": 10,
     "category": "appetizers",
     "description": "شوربة عدس دافئة بالتوابل الشرقية.",
-  "image": "/public/img/وجبة3.jpg",
+  "image": "./public/img/وجبة3.jpg",
     "isActive": true
 
   },
@@ -52,7 +52,7 @@
     "price": 18,
     "category": "meals",
     "description": "كيك مخملي بالتوت مع طبقة جبن كريمية.",
-  "image": "/public/img/وجبة4.jpg",
+  "image": "./public/img/وجبة4.jpg",
     "isActive": true
   },
   {
@@ -61,7 +61,7 @@
     "price": 8,
     "category": "drinks",
     "description": "قهوة تركية أصلية محمصة بعناية، تقدم ساخنة مع رغوة غنية.",
-  "image": "/public/img/عصير1.png",
+  "image": "./public/img/عصير1.png",
     "isActive": true
   },
   {
@@ -70,7 +70,7 @@
     "price": 12,
     "category": "appetizers",
     "description": "خضار طازجة مع صوص خفيف ولذيذ.",
-  "image": "/public/img/وجبة1.jpg",
+  "image": "./public/img/وجبة1.jpg",
     "isActive": true
   },
   {
@@ -79,7 +79,7 @@
     "price": 15,
     "category": "snacks",
     "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
-  "image": "/public/img/وجبة2.jfif",
+  "image": "./public/img/وجبة2.jfif",
     "isActive": true
   },
   {
@@ -88,7 +88,7 @@
     "price": 15,
     "category": "snacks",
     "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
-  "image": "/public/img/وجبة2.jfif",
+  "image": "./public/img/وجبة2.jfif",
     "isActive": true
   },
   {
@@ -97,7 +97,7 @@
     "price": 15,
     "category": "snacks",
     "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
-    "image": "public/img/وجبة2.jfif",
+    "image": "./public/img/وجبة2.jfif",
     "isActive": true
   },
   {
@@ -106,7 +106,7 @@
     "price": 15,
     "category": "snacks",
     "description": "كنافة ناعمة بالجبن، مشبعة بالعسل الطازج.",
-    "image": "public/img/وجبة2.jfif",
+    "image": "./public/img/وجبة2.jfif",
     "isActive": true
   }
 ]
